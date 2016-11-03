@@ -172,6 +172,7 @@ C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Program
 C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Startup.cs
 C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Controllers\AboutController.cs
 C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Controllers\HomeController.cs
-C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Models\Restaurant.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Entites\Restaurant.cs
 C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Services\Greeter.cs
 C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Services\RestaurantData.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\ViewModels\HomePageViewModel.cs
