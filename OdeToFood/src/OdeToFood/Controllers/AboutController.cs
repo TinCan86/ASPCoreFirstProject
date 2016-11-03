@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace OdeToFood.Controllers
 {
+    [Route("company/[controller]/[action]")]
     public class AboutController
     {
         public string Phone()
@@ -12,7 +14,7 @@ namespace OdeToFood.Controllers
             return "1+555-555-5555";
         }
 
-        public string Adress()
+        public string Address()
         {
             return "Sweden";
         }

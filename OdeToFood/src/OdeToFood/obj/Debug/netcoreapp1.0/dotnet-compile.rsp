@@ -1,5 +1,5 @@
---temp-output:D:\LIA - Praktik\OdeToFood\src\OdeToFood\obj\Debug\netcoreapp1.0\
---out:D:\LIA - Praktik\OdeToFood\src\OdeToFood\bin\Debug\netcoreapp1.0\OdeToFood.dll
+--temp-output:C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\obj\Debug\netcoreapp1.0\
+--out:C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\bin\Debug\netcoreapp1.0\OdeToFood.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -167,9 +167,11 @@
 --reference:C:\Users\TinCan\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\TinCan\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\TinCan\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"D:\LIA - Praktik\OdeToFood\src\OdeToFood\obj\Debug\netcoreapp1.0\OdeToFooddotnet-compile.deps.json",OdeToFood.deps.json
-D:\LIA - Praktik\OdeToFood\src\OdeToFood\Greeter.cs
-D:\LIA - Praktik\OdeToFood\src\OdeToFood\Program.cs
-D:\LIA - Praktik\OdeToFood\src\OdeToFood\Startup.cs
-D:\LIA - Praktik\OdeToFood\src\OdeToFood\Controllers\AboutController.cs
-D:\LIA - Praktik\OdeToFood\src\OdeToFood\Controllers\HomeController.cs
+--resource:"C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\obj\Debug\netcoreapp1.0\OdeToFooddotnet-compile.deps.json",OdeToFood.deps.json
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Program.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Startup.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Controllers\AboutController.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Controllers\HomeController.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Models\Restaurant.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Services\Greeter.cs
+C:\Users\TinCan\Source\Repos\ASPCoreFirstProject\OdeToFood\src\OdeToFood\Services\RestaurantData.cs
