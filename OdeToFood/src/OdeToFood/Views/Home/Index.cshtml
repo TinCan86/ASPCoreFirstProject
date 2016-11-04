@@ -11,7 +11,12 @@
         @foreach(var restaurant in Model.Restaurants)
         {
         <tr>
-            <td>@restaurant.Id</td>
+            <td>
+                @*One way to write and redirect a link*@
+                <a href="/home/details/@restaurant.Id">Details</a>
+                @Html.ActionLink("View", "Details", new  { id = restaurant.Id })
+            
+            </td>
             <td>@restaurant.Name</td>
         </tr>
         }
